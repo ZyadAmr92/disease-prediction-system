@@ -1,3 +1,8 @@
+<img width="1703" height="631" alt="Screenshot 2025-09-14 142351" src="https://github.com/user-attachments/assets/7bc52b9f-b26e-4eec-b215-8ed29813b185" />
+<img width="1703" height="673" alt="Screenshot 2025-09-14 142326" src="https://github.com/user-attachments/assets/c44eea0e-7668-4d64-ad93-e87d848929d9" />
+<img width="1703" height="517" alt="Screenshot 2025-09-14 142225" src="https://github.com/user-attachments/assets/e6dfc07a-9379-4518-882f-daf5bfb9f8f6" />
+<img width="1698" height="636" alt="Screenshot 2025-09-14 141719" src="https://github.com/user-attachments/assets/9aced1a0-a09c-4ff6-9102-0bd804233ed9" />
+<img width="1698" height="644" alt="Screenshot 2025-09-14 135643" src="https://github.com/user-attachments/assets/752aca68-9819-46b5-a7a6-96fe1e6bd9ce" />
 # disease-prediction-system
 
 
@@ -61,3 +66,9 @@
 ---
 
 ## 📁 Project Structure
+Disease_Prediction_System/
+
+├── model.pkl
+├── requirements.txt
+├── dataset.csv
+└── README.md
